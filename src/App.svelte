@@ -5,7 +5,7 @@
 </script>
 
 <header class="d-flex justify-content-center" style="text-align: center;">
-  <h4>Tax Invoice</h4>
+  <h4 style="font-weight: bold;">Tax Invoice</h4>
   <button on:click={print} class="btn btn-print no-print" role="button">Print</button>
 </header>
 <main class="flex">
