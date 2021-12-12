@@ -17,7 +17,7 @@
                   <div class="flex  bb br  flex-c" style="height: 50%;">
                       <div class="label" style="line-height: 1.5; font-size: 1rem;">
                           <pre>
-Scientific & Elextric Co.
+Scientific & Electric Co.
 No: 153/76, Thambu Chetty Street,
 Chennai 600001
 Phone: 9999911111
