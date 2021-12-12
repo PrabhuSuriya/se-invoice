@@ -39,53 +39,53 @@ State Name : Tamil Nadu, Code: 33
                 <div class="flex  " >
                     <div class="flex   flex-c" style="min-height: 3in; flex-grow: 1; width: 50%;">
                         <div class="flex br bb  flex-c" style="min-height: 0.4in; flex-grow: 1;">
-                            <div class="label">Name</div>
+                            <div class="label">Invoice No</div>
                             <div contenteditable="true" class="value" />
                         </div>
                         <div class="flex br bb  flex-c" style="min-height: 0.4in; flex-grow: 1;">
-                            <div class="label">Name</div>
+                            <div class="label">Delivery Note</div>
                             <div contenteditable="true" class="value" />
                         </div>
                         <div class="flex br bb  flex-c" style="min-height: 0.4in; flex-grow: 1;">
-                            <div class="label">Name</div>
+                            <div class="label">Supplier Ref</div>
                             <div contenteditable="true" class="value" />
                         </div>
                         <div class="flex br bb  flex-c" style="min-height: 0.4in; flex-grow: 1;">
-                            <div class="label">Name</div>
+                            <div class="label">Buyer Order No</div>
                             <div contenteditable="true" class="value" />
                         </div>
                         <div class="flex br bb  flex-c" style="min-height: 0.4in; flex-grow: 1;">
-                            <div class="label">Name</div>
+                            <div class="label">Dispatch Document No</div>
                             <div contenteditable="true" class="value" />
                         </div>
                         <div class="flex br bb  flex-c" style="min-height: 0.4in; flex-grow: 1;">
-                            <div class="label">Name</div>
+                            <div class="label">Dispatched Through</div>
                             <div contenteditable="true" class="value" />
                         </div>
                     </div>
                     <div class="flex   flex-c" style="min-height: 3in; flex-grow: 1; width: 50%;">
                       <div class="flex  bb  flex-c" style="min-height: 0.4in; flex-grow: 1;">
-                          <div class="label">Name</div>
+                          <div class="label">Dated</div>
                           <div contenteditable="true" class="value" />
                       </div>
                       <div class="flex  bb  flex-c" style="min-height: 0.4in; flex-grow: 1;">
-                          <div class="label">Name</div>
+                          <div class="label">Mode/Terms of Payment</div>
                           <div contenteditable="true" class="value" />
                       </div>
                       <div class="flex  bb  flex-c" style="min-height: 0.4in; flex-grow: 1;">
-                          <div class="label">Name</div>
+                          <div class="label">Dated</div>
                           <div contenteditable="true" class="value" />
                       </div>
                       <div class="flex  bb  flex-c" style="min-height: 0.4in; flex-grow: 1;">
-                          <div class="label">Name</div>
+                          <div class="label">Delivery Note Date</div>
                           <div contenteditable="true" class="value" />
                       </div>
                       <div class="flex  bb  flex-c" style="min-height: 0.4in; flex-grow: 1;">
-                          <div class="label">Name</div>
+                          <div class="label">Destination</div>
                           <div contenteditable="true" class="value" />
                       </div>
                       <div class="flex  bb  flex-c" style="min-height: 0.4in; flex-grow: 1;">
-                          <div class="label">Name</div>
+                          <div class="label">Terms of Delivery</div>
                           <div contenteditable="true" class="value" />
                       </div>
                   </div>
