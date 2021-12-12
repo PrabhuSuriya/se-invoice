@@ -1,0 +1,102 @@
+<script>
+</script>
+
+
+<header class="d-flex justify-content-center">
+	<h4>Scientific & Electric</h4>
+</header>
+<main>
+	<section class="form-container d-flex">
+		<!-- <section class="d-flex flex-row w-100">
+			<section class="d-flex flex-column w-50 border-end border-bottom border-dark">
+				<section class="border-end border-bottom border-dark">
+					Scientific & Electric
+				</section>
+				<section class="border-end border-bottom border-dark">
+					Buyer,
+					Buyer Company co
+				</section>
+
+				<section class="d-flex flex-row">
+					div.flex-1
+
+				</section>
+			</section>
+			<section class="d-flex w-50 border-end border-bottom border-dark">test</section>
+		</section> -->
+
+		<table >
+			<tr>
+				<td>asdasd</td>
+				<td>asdasd</td>
+			</tr>
+			<tr>
+				<td>asdasd</td>
+				<td>asdasd</td>
+			</tr>
+			<tr>
+				<td>asdasd</td>
+				<td>asdasd</td>
+			</tr>
+		</table>
+
+	</section>
+	
+</main>
+
+<style>
+	main {
+		text-align: center;
+		padding: 1em;
+		max-width: 240px;
+		margin: 0 auto;
+	}
+
+	h1 {
+		color: #ff3e00;
+		text-transform: uppercase;
+		font-size: 4em;
+		font-weight: 100;
+	}
+
+	@media (min-width: 640px) {
+		main {
+			max-width: none;
+		}
+	}
+	
+	.form-container {
+		/* border: 1px solid gray; */
+
+	}
+	table {
+		width: 100%;
+		border-collapse: collapse;
+	}
+	table,  td,  th {
+		border: 1px solid gray;
+	}
+	/* .table>:not(:first-child) {
+		border-top: 1px solid currentColor;
+	}
+	td {
+		border-left-width: 1px;
+		border-right-width: 1px;
+	} */
+	table {
+		width: 100%;
+		border-collapse: collapse;
+	}
+	table,  td,  th {
+		border: 1px solid gray;
+	}
+	@media print {
+		html, body, main {
+			width: 100%;
+		}
+		table {
+			width: 100%;
+			background: red;
+		}
+	}
+</style>
